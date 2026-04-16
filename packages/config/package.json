@@ -1,0 +1,7 @@
+{
+  "name": "@hr-crm/config",
+  "version": "1.0.0",
+  "private": true,
+  "main": "eslint.js",
+  "scripts": {}
+}
